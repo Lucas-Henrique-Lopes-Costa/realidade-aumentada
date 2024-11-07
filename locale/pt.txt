@@ -1,0 +1,18 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_1A13DECC_0836_603D_4170_5D75898FBCD2.label = QUARTO-VICTORIA-scaled
+
+## Popup
+
+### Body
+htmlText_10683A91_0832_6024_4194_ED15777CDCEF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Loc midia</SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 1
